@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm VS NIKHIL MAHESWAR</h1>
-<h3 align="center">I AM A COMPUTER SCIENCE ENGINEERING STUDENT FROM INDIA</h3>
+<h3 align="center">I am a aspiring Full Stack Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vsnikhilmaheswar&label=Profile%20views&color=0e75b6&style=flat" alt="vsnikhilmaheswar" /> </p>
 
-- 🌱 I’m currently learning **Nodejs and python**
+- 🌱 I’m currently learning **Javascript,Nodejs**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
