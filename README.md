@@ -13,10 +13,10 @@ I'm an aspiring Full Stack Developer passionate about creating dynamic, user-fri
 - Enhancing my Full Stack Development skills
 
 ## 📈 GitHub Stats
-![VS Nikhil Maheswar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vs-nikhil-maheswar&show_icons=true&theme=radical)
+![VS Nikhil Maheswar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vsnikhilmaheswar&show_icons=true&theme=radical)
 
 ## 🔥 Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vs-nikhil-maheswar&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vsnikhilmaheswar&layout=compact&theme=radical)
 
 ## 📫 Connect With Me:
 - [LinkedIn](https://www.linkedin.com/in/vs-nikhil-maheswar)
