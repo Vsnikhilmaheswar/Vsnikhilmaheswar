@@ -1,21 +1,34 @@
-<h1 align="center">Hi 👋, I'm VS NIKHIL MAHESWAR</h1>
-<h3 align="center">I am a aspiring Full Stack Developer</h3>
+# 👋 Hello, I'm VS Nikhil Maheswar!
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vsnikhilmaheswar&label=Profile%20views&color=0e75b6&style=flat" alt="vsnikhilmaheswar" /> </p>
+I'm an aspiring Full Stack Developer passionate about creating dynamic, user-friendly applications. I enjoy building web projects with modern technologies and continuously improving my skills.
 
-- 🌱 I’m currently learning **Javascript,Nodejs**
+## 🚀 Technologies & Tools
+- Frontend: React, HTML, CSS, JavaScript
+- Backend: FastAPI, Node.js, Express.js
+- Databases: MongoDB, MySQL
+- Others: Git, Docker, REST APIs
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/v-s-nikhil-maheswar-549a301ba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/v-s-nikhil-maheswar-549a301ba" height="30" width="40" /></a>
-<a href="https://instagram.com/themadnikki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="themadnikki" height="30" width="40" /></a>
-</p>
+## 🌱 What I'm Working On
+- DeepReality: A project focused on deepfake detection using React and FastAPI
+- Enhancing my Full Stack Development skills
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> </p>
+## 📈 GitHub Stats
+![VS Nikhil Maheswar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vs-nikhil-maheswar&show_icons=true&theme=radical)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vsnikhilmaheswar&show_icons=true&locale=en&layout=compact" alt="vsnikhilmaheswar" /></p>
+## 🔥 Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vs-nikhil-maheswar&layout=compact&theme=radical)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vsnikhilmaheswar&show_icons=true&locale=en" alt="vsnikhilmaheswar" /></p>
+## 📫 Connect With Me:
+- [LinkedIn](https://www.linkedin.com/in/vs-nikhil-maheswar)
+- [Twitter](https://twitter.com/nikhil-maheswar)
+- [Instagram](https://www.instagram.com/vs.nikhil)
+- [Portfolio](https://vs-nikhil-maheswar.dev)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vsnikhilmaheswar&" alt="vsnikhilmaheswar" /></p>
+## 💻 Check Out My Featured Project
+
+[![DeepReality](https://via.placeholder.com/800x400.png?text=DeepReality+-+Click+to+View+Repo)](https://github.com/vs-nikhil-maheswar/deepreality)
+
+---
+
+**VS Nikhil Maheswar**  
+_Aspiring Full Stack Developer_
