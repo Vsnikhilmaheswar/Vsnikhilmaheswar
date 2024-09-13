@@ -30,10 +30,6 @@ I'm an aspiring Full Stack Developer passionate about creating dynamic, user-fri
 - [Instagram](https://www.instagram.com/vs.nikhil)
 - [Portfolio](https://vs-nikhil-maheswar.dev)
 
-## 💻 Check Out My Featured Project
-
-[![DeepReality](https://via.placeholder.com/800x400.png?text=DeepReality+-+Click+to+View+Repo)](https://github.com/Vsnikhilmaheswar/deepreality)
-
 ---
 
 **VS Nikhil Maheswar**  
