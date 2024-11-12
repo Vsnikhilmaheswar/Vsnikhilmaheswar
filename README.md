@@ -6,7 +6,7 @@ I'm an aspiring Full Stack Developer passionate about creating dynamic, user-fri
 - Frontend: React, HTML, CSS, JavaScript
 - Backend: FastAPI, Node.js, Express.js
 - Databases: MongoDB, MySQL
-- Others: Git, Docker, REST APIs
+- Others: Git, REST APIs
 
 ## 🌱 What I'm Working On
 - DeepReality: A project focused on deepfake detection using React and FastAPI
@@ -28,7 +28,7 @@ I'm an aspiring Full Stack Developer passionate about creating dynamic, user-fri
 - [LinkedIn](https://www.linkedin.com/in/vsnikhilmaheswar/)
 - [Twitter](https://twitter.com/nikhil-maheswar)
 - [Instagram](https://www.instagram.com/vs.nikhil)
-- [Portfolio](https://vs-nikhil-maheswar.dev)
+- [Portfolio]()
 
 ---
 
