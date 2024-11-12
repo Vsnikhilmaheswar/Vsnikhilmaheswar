@@ -1,5 +1,5 @@
 # 👋 Hello, I'm VS Nikhil Maheswar!
-<iframe src="https://giphy.com/embed/Ah3zHH7hvsSB2" width="480" height="271" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/life-hacker-Ah3zHH7hvsSB2">via GIPHY</a></p>
+<img src="https://giphy.com/embed/Ah3zHH7hvsSB2" width="480" height="271" style="" frameBorder="0" class="giphy-embed" allowFullScreen></img>
 I'm an aspiring Full Stack Developer passionate about creating dynamic, user-friendly applications. I enjoy building web projects with modern technologies and continuously improving my skills.
 
 ## 🚀 Technologies & Tools
