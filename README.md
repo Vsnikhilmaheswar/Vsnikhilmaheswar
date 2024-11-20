@@ -1,6 +1,6 @@
 # 👋 Hello, I'm VS Nikhil Maheswar!
 
-
+I'm an aspiring Full Stack Developer passionate about creating dynamic, user-friendly applications. I enjoy building web projects with modern technologies and continuously improving my skills.
 <img src="https://github.com/Vsnikhilmaheswar/Vsnikhilmaheswar/blob/main/giphy.webp" style="width:1000px; ">
 ## 🚀 Technologies & Tools
 - Frontend: React, HTML, CSS, JavaScript
