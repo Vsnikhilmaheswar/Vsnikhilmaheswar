@@ -30,9 +30,9 @@ I'm an aspiring Full Stack Developer passionate about creating dynamic, user-fri
 - [Instagram](https://www.instagram.com/vs.nikhil)
 - [Portfolio]()
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/Vsnikhilmaheswar/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/Vsnikhilmaheswar/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/Vsnikhilmaheswar/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vsnikhilmaheswar/Vsnikhilmaheswar/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Vsnikhilmaheswar/Vsnikhilmaheswar/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Vsnikhilmaheswar/Vsnikhilmaheswar/output/github-contribution-grid-snake.svg">
 </picture>
 ---
 
